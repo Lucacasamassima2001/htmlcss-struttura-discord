@@ -70,6 +70,14 @@ header{
 }
 
 .blue{
+    border-right: dotted;
+    width: 60%;
+    height: 100%;
+    background-color: #47a1ff ;
+}
+
+.blue-left{
+    border-left: dotted;
     width: 60%;
     height: 100%;
     background-color: #47a1ff ;
@@ -152,6 +160,7 @@ footer{
 
 .ciano{
     border-style: dotted;
+    border-color: white;
     width: 20%;
     height: 350px;
     background-color:cyan;
