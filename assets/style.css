@@ -25,12 +25,12 @@ header{
 
 .nav-aside{
     width: 20%;
-    border-style: dotted;
+    border-style: dashed;
 }
 
 .nav-center{
     width: 60%;
-    border-style: dotted;
+    border-style: dashed;
 }
 
 /* <!-- FULL BLUE SQUARE SECTION --> */
@@ -45,7 +45,7 @@ header{
 }
 
 .violet{
-    border-style: dotted;
+    border-style: dashed;
     width: 40%;
     height: 80%;
     background-color: violet;
@@ -63,21 +63,21 @@ header{
 }
 
 .blue-pink{
-    border-style: dotted;
+    border-style: dashed;
     width: 60%;
     height: 80%;
     background-color: pink;
 }
 
 .blue{
-    border-right: dotted;
+    border-right: dashed;
     width: 60%;
     height: 100%;
     background-color: #47a1ff ;
 }
 
 .blue-left{
-    border-left: dotted;
+    border-left: dashed;
     width: 60%;
     height: 100%;
     background-color: #47a1ff ;
@@ -95,7 +95,7 @@ header{
 .pink-blue{
     display: flex;
     flex-direction: row-reverse;
-    border-style: dotted;
+    border-style: dashed;
     width: 60%;
     height: 80%;
     background-color: pink;
@@ -123,7 +123,7 @@ header{
 }
 
 .green-square{
-    border-style: dotted;
+    border-style: dashed;
     width: 60%;
     height: 700px;
     background-color: green;
@@ -152,14 +152,14 @@ footer{
 
 
 .darkpink{
-    border-style: dotted;
+    border-style: dashed;
     width: 30%;
     height: 350px;
     background-color: rgb(244, 131, 150);
 }
 
 .ciano{
-    border-style: dotted;
+    border-style: dashed;
     border-color: white;
     width: 20%;
     height: 350px;
@@ -188,12 +188,12 @@ footer{
     width: 60px;
     height: 30px;
     background-color: pink;
-    border-style: dotted;
+    border-style: dashed;
 }
 
 .bottone{
     width: 80px;
     height: 30px;
     background-color: pink;
-    border-style: dotted;
+    border-style: dashed;
 }
