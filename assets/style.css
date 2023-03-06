@@ -1,0 +1,176 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(43, 182, 140);
+    display: flex;
+    align-items:center;
+    justify-content: center;
+     
+}
+
+.first-nav{
+    display: flex;
+    width: 70%;
+    height: 30px;
+    background-color: orange;
+}
+
+.nav-aside{
+    width: 20%;
+    border-style: dotted;
+}
+
+.nav-center{
+    width: 60%;
+    border-style: dotted;
+}
+
+.first-section{
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.violet{
+    border-style: dotted;
+    width: 40%;
+    height: 80%;
+    background-color: violet;
+}
+
+.second-section{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.blue-pink1{
+    border-style: dotted;
+    width: 60%;
+    height: 80%;
+    background-color: pink;
+}
+
+.blue{
+    width: 60%;
+    height: 100%;
+    background-color: #47a1ff ;
+}
+
+.third-section{
+    background-color: lightgray;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.blue-pink2{
+    display: flex;
+    flex-direction: row-reverse;
+    border-style: dotted;
+    width: 60%;
+    height: 80%;
+    background-color: pink;
+}
+
+.fourth-section{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.fifth-section{
+    width: 100%;
+    height: 800px;
+    background-color: lightgray;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.green-square{
+    border-style: dotted;
+    width: 60%;
+    height: 700px;
+    background-color: green;
+}
+
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+
+
+
+.footer-firstpart{
+    margin: auto;
+    width: 60%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    padding-top: 5px;
+}
+
+
+.darkpink{
+    border-style: dotted;
+    width: 30%;
+    height: 350px;
+    background-color: rgb(244, 131, 150);
+}
+
+.ciano{
+    border-style: dotted;
+    width: 20%;
+    height: 350px;
+    background-color:cyan;
+}
+
+.footer-secondpart{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+
+.second-nav{
+    width: 60%;
+    height: 60px;
+    background-color: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 60px;
+    height: 30px;
+    background-color: pink;
+    border-style: dotted;
+}
+
+.bottone{
+    width: 80px;
+    height: 30px;
+    background-color: pink;
+    border-style: dotted;
+}
